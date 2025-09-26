@@ -18,38 +18,18 @@
 
 .desktop .div {
   position: absolute;
-  top: 0;
-  left: 0;
-  width: 371px;
+  top: -32px;
+  left: -21px;
+  width: 392px;
   height: 810px;
   background-color: #c83030;
 }
 
-.desktop .FC-barcelona-crest {
-  position: absolute;
-  top: 20px;
-  left: 0;
-  width: 127px;
-  height: 129px;
-  aspect-ratio: 0.98;
-  object-fit: cover;
-}
-
-.desktop .images-removebg {
-  top: 334px;
-  left: 552px;
-  width: 148px;
-  height: 253px;
-  aspect-ratio: 0.75;
-  position: absolute;
-  object-fit: cover;
-}
-
 .desktop .text-wrapper {
   position: absolute;
-  top: 160px;
-  left: 110px;
-  width: 709px;
+  top: 0;
+  left: 94px;
+  width: 694px;
   font-family: "Sansita Swashed-Regular", Helvetica;
   font-weight: 400;
   color: #ffffff;
@@ -58,102 +38,134 @@
   line-height: normal;
 }
 
-.desktop .FC-barcelona-adalah {
+.desktop .nike-nike-men-soccer {
   position: absolute;
-  top: 244px;
-  left: 25px;
-  width: 618px;
-  font-family: "Inconsolata-Regular", Helvetica;
-  font-weight: 400;
-  color: #f9f1f1;
-  font-size: 36px;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.desktop .rectangle-2 {
-  position: absolute;
-  top: 85px;
-  left: 79px;
-  width: 175px;
-  height: 51px;
-  background-color: #ae2222;
-}
-
-.desktop .text-wrapper-2 {
-  position: absolute;
-  top: 94px;
-  left: 146px;
-  width: 116px;
-  font-family: "Irish Grover-Regular", Helvetica;
-  font-weight: 400;
-  color: #ffffff;
-  font-size: 32px;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.desktop .img {
-  top: 69px;
-  left: 68px;
-  width: 84px;
-  height: 84px;
+  top: 109px;
+  left: 73px;
+  width: 185px;
+  height: 185px;
   aspect-ratio: 1;
-  position: absolute;
   object-fit: cover;
 }
 
-.desktop .rectangle-3 {
+.desktop .hj {
   position: absolute;
-  top: 85px;
-  left: 285px;
-  width: 175px;
-  height: 51px;
-  background-color: #ae2222;
+  top: 56px;
+  left: 459px;
+  width: 187px;
+  height: 250px;
+  aspect-ratio: 0.75;
+  object-fit: cover;
 }
 
-.desktop .rectangle-4 {
+.desktop .text-on-a-path {
   position: absolute;
-  top: 85px;
-  left: 500px;
-  width: 175px;
-  height: 51px;
-  background-color: #ae2222;
+  top: -206px;
+  left: 273px;
+  width: 189px;
+  height: 189px;
+  object-fit: cover;
 }
 
-.desktop .text-wrapper-3 {
+.desktop .text-wrapper-2 {
+  top: 310px;
+  left: 79px;
+  width: 179px;
   position: absolute;
-  top: 94px;
-  left: 371px;
-  width: 129px;
-  font-family: "Irish Grover-Regular", Helvetica;
+  font-family: "Sansita Swashed-Regular", Helvetica;
   font-weight: 400;
   color: #ffffff;
-  font-size: 32px;
+  font-size: 24px;
   letter-spacing: 0;
   line-height: normal;
   white-space: nowrap;
 }
 
-.desktop .pngtree-shopping {
+.desktop .text-wrapper-3 {
   position: absolute;
-  top: 77px;
-  left: 292px;
-  width: 68px;
-  height: 68px;
-  aspect-ratio: 1;
-  object-fit: cover;
+  top: 285px;
+  left: 94px;
+  width: 162px;
+  font-family: "Sansita Swashed-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
 }
 
 .desktop .text-wrapper-4 {
   position: absolute;
-  top: 94px;
-  left: 552px;
-  width: 141px;
-  font-family: "Irish Grover-Regular", Helvetica;
+  top: 275px;
+  left: 485px;
+  width: 136px;
+  font-family: "Sansita Swashed-Regular", Helvetica;
   font-weight: 400;
   color: #ffffff;
-  font-size: 32px;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .barca-third {
+  position: absolute;
+  top: 306px;
+  left: 274px;
+  width: 185px;
+  height: 185px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.desktop .text-wrapper-5 {
+  top: 306px;
+  left: 471px;
+  width: 175px;
+  position: absolute;
+  font-family: "Sansita Swashed-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .images-removebg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 166px;
+  height: 237px;
+  aspect-ratio: 0.8;
+  object-fit: cover;
+}
+
+.desktop .text-wrapper-6 {
+  position: absolute;
+  top: 480px;
+  left: 288px;
+  width: 157px;
+  font-family: "Sansita Swashed-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-7 {
+  top: 514px;
+  left: 240px;
+  width: 144px;
+  position: absolute;
+  font-family: "Sansita Swashed-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
   letter-spacing: 0;
   line-height: normal;
   white-space: nowrap;
